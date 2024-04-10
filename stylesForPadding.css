@@ -1,0 +1,34 @@
+body{
+    background-color: burlywood;
+}
+*{
+    margin: auto;
+    padding: 0;
+}
+#myPadding{
+    background-color: darkmagenta;
+    display: inline;
+    color: aquamarine;
+    /* padding-bottom: 10%;
+    padding-right: 20%;
+    padding-top: 80%;
+    padding-left: 15%; */
+    padding: 15px 25px 50px 90px;
+    border: 15px red dotted;
+    /* border-top: 16px;
+    border-bottom: 10px ;
+    border-left: 4px ;
+    border-right: 2px;
+    border-color: chartreuse;
+    border-style: dotted; */
+    margin: auto;
+    display: block;
+    /* margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 300px;
+    margin-right: 300px; */
+
+    width: 300px;
+    height: 100px;
+
+}
